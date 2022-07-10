@@ -1,6 +1,6 @@
 //CSC114-651
 //Student: Christopher Yonek (700642859)
-//Assignment: HW 2 - Create a program that calculates the price of pizza
+//Assignment: Create a program that calculates the price of pizza
 //Date: September 2018
 
 #include "pch.h"
