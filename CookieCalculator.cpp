@@ -1,5 +1,7 @@
-// ConsoleApplication20.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//CSC114-651
+//Student: Christopher Yonek (700642859)
+//Assignment: No 2. - Create a program that gives ingredient amounts.
+//Date: September 2018
 
 #include <iostream>
 
