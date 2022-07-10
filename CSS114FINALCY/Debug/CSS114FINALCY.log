@@ -1,0 +1,7 @@
+﻿  CSS114FINALCY.cpp
+c:\users\home\source\repos\css114finalcy\circle.h(7): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\home\source\repos\css114finalcy\css114finalcy.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\home\source\repos\css114finalcy\css114finalcy.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\home\source\repos\css114finalcy\css114finalcy.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\home\source\repos\css114finalcy\css114finalcy.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CSS114FINALCY.vcxproj -> C:\Users\Home\source\repos\CSS114FINALCY\Debug\CSS114FINALCY.exe
