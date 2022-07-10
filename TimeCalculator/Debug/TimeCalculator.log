@@ -1,0 +1,14 @@
+﻿  TimeCalculator.cpp
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(30): error C2065: 'divisionquarterly1': undeclared identifier
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(30): error C2059: syntax error: ')'
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(35): error C2660: 'getSales': function does not take 0 arguments
+  c:\users\sides\source\repos\timecalculator\timecalculator.cpp(11): note: see declaration of 'getSales'
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(40): error C2059: syntax error: 'constant'
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(41): error C3872: '0x2019': this character is not allowed in an identifier
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(44): error C3873: '0x2022': this character is not allowed as a first character of an identifier
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(44): error C3872: '0x2019': this character is not allowed in an identifier
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(47): error C3873: '0x2022': this character is not allowed as a first character of an identifier
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(49): error C2143: syntax error: missing ';' before '!'
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(49): error C2588: '::!accept': illegal global finalizer
+c:\users\sides\source\repos\timecalculator\timecalculator.cpp(49): error C2146: syntax error: missing ';' before identifier 'dollar'
